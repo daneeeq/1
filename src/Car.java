@@ -1,6 +1,8 @@
 public class Car {
-    double cost;
+    double cost = 5;
     double km;
-    public void infocar(){
-    }
-}
+
+
+ }
+
+

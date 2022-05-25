@@ -10,9 +10,7 @@ A a = new A();
 B b = new B();
 C c = new C();
 D d = new D();
-Agents ag = new Agents();
-        Scanner Sc = new Scanner(System.in);
-        System.out.println("");
-        int x = Sc.nextInt();
+Agents ag = new Agents(car,train,plane,a,b,c,d);
+
     }
 }
